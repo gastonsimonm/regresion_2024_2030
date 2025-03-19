@@ -1,0 +1,1 @@
+Este proyecto implementa un modelo de Inteligencia Artificial, programado en Python, basado en redes neuronales recurrentes (RNN) del tipo Long Short-Term Memory (LSTM) para proyectar la demanda total de energía eléctrica en Argentina durante el período 2024-2030, tomando los datos de los años 1992-2023 
